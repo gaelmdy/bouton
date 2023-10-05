@@ -1,0 +1,9 @@
+.monbouton{
+   display:flex;
+   padding: 50%;
+   color: blue;
+}
+body {
+    display: block;
+    box size: border-block;
+}
